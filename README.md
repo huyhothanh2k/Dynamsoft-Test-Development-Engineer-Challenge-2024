@@ -8,6 +8,6 @@
 - npm install --save-dev jest
 
 # Run the tests with this command:
-
--npx jest or npm test
-#View the test results directly in the terminal.
+- npx jest or npm test
+  
+View the test results directly in the terminal.
